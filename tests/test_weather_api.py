@@ -17,6 +17,7 @@ def test_get_current_weather_condition(weather_api):
         "Fog",
         "Mist",
         "Wind",
+        "Smoke"
     ]  # Expected weather conditions
 
     # Test with an invalid city
