@@ -121,3 +121,6 @@ feature_1 commit 1
 feature_1 commit 2
 
 release 0.0.1 commit 1
+
+hotfix 0.0.2 commit 1
+hotfix 0.0.2 commit 2
