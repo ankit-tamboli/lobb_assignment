@@ -115,3 +115,5 @@ editing for blame command test
 
 new_branch commit 1
 new_branch commit 2
+
+feature_1 commit 1
