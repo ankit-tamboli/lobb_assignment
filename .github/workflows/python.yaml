@@ -5,6 +5,9 @@ on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
+      LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
     steps:
       - uses: actions/checkout@v4
       - name: Setup Python
