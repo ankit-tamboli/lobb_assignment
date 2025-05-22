@@ -118,3 +118,5 @@ new_branch commit 2
 
 feature_1 commit 1
 feature_1 commit 2
+
+release 0.0.1 commit 1
