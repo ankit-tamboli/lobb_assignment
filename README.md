@@ -114,3 +114,4 @@ editing for blame command test
 2nd time editing for blame command testing
 
 new_branch commit 1
+new_branch commit 2
